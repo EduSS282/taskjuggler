@@ -69,8 +69,8 @@ resource dev2 "Samantha Müller" {
 resource dev3 "Peter Green" {
   email "kkk@unizar.es"
 }
-resource eduar "Eduar Student" {
-  email "eduar@unizar.es"
+resource eduar "Eduardo Sánchez Sarsa" {
+  email "901813@unizar.es"
   limits { dailymax 4h }
 }
 
